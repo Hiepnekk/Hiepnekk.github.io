@@ -1,0 +1,1 @@
+<div class="banner"><img src="https://cdn.vn.garenanow.com/web/napthevn/sp_pc_170222.png" alt=""></div>
